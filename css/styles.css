@@ -480,6 +480,16 @@ mark,
   height: auto;
 }
 
+.img-pic {
+  max-width: 100%;
+  height: auto;
+  border-radius:90px 90px 90px 90px; 
+}
+
+.img-pic img {-webkit-border-bottom-left-radius: 25px; -webkit-border-top-left-radius: 25px ; border-radius:90px 90px 90px 90px; }
+ 
+
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
